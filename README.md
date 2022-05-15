@@ -1,3 +1,3 @@
 # Hi there 👋
-- 👋 I am sanjay
+- ## I am Sanjay
 - I am a developer
