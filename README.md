@@ -2,7 +2,7 @@
 ### I am Sanjay
 #### I am a student and programmer from India and I really enjoy programming and learning leanguages.
 
-### Skills
+### Skills 💻 
 - Python
 - HTML
 - CSS
