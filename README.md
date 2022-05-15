@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **sanjayssp1423@gmail.com**
 
-- ⚡ Fun fact **I am funny Person**
+- ⚡ Fun fact **I am anime lover and funny person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
