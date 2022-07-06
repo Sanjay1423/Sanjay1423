@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer and developer from India</h3>
 <img align="right" width="450" alt="coding" style="border-radius:25px" src="https://cdn.dribbble.com/users/1619695/screenshots/5221467/media/6fc581a8a8a53a07e2d667d3fb97e007.png?compress=1&resize=400x300">
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **MongoDB and Mongoose**
 
 - 📫 How to reach me **sanjayssp1423@gmail.com**
 
